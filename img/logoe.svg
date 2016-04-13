@@ -15,7 +15,7 @@
    inkscape:version="0.48.4 r9939"
    width="1024"
    height="1024"
-   sodipodi:docname="logoe.png">
+   sodipodi:docname="logoe.svg">
   <metadata
      id="metadata3061">
     <rdf:RDF>
@@ -51,7 +51,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3055" />
   <image
-     width="477.25479"
+     width="1010.8886"
      height="340.89624"
      xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAQACAYAAAB/HSuDAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzs3Xd4lGX6/v9z0ghdIk0QQRREiggKCCjN0ETX3d/2/eyq69pWUEBX1oIVLKBY1kJVOgihh5JQ
@@ -1558,6 +1558,8 @@ arVaLTqCiIjI2L188RI//fQTvvvuP7hw/gJKSkogkUhQrVo1dOnaFf3790PdevW44z8RERFpzf8D
 suFkQXzGssIAAAAASUVORK5CYII=
 "
      id="image3063"
-     x="256.98334"
-     y="180.93727" />
+     x="-2.4606263e-05"
+     y="237.31627"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
 </svg>
