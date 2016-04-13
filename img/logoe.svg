@@ -51,8 +51,8 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3055" />
   <image
-     width="1010.8886"
-     height="340.89624"
+     width="500.32538"
+     height="178.97218"
      xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAQACAYAAAB/HSuDAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzs3Xd4lGX6/v9z0ghdIk0QQRREiggKCCjN0ETX3d/2/eyq69pWUEBX1oIVLKBY1kJVOgihh5JQ
 AyGQACmApBOSmclkJjPJJJkk0+f5/WH57lpTZnJNOV/H4arrknnjscnMcz33c98qRVEUEBEREVGz
@@ -1558,8 +1558,9 @@ arVaLTqCiIjI2L188RI//fQTvvvuP7hw/gJKSkogkUhQrVo1dOnaFf3790PdevW44z8RERFpzf8D
 suFkQXzGssIAAAAASUVORK5CYII=
 "
      id="image3063"
-     x="-2.4606263e-05"
-     y="237.31627"
+     x="294.40771"
+     y="87.237579"
      inkscape:export-xdpi="90"
-     inkscape:export-ydpi="90" />
+     inkscape:export-ydpi="90"
+     transform="matrix(0.99415692,0.10794447,-0.0958142,0.99539924,0,0)" />
 </svg>
