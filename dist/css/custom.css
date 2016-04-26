@@ -15,7 +15,7 @@ background:#000000;
 
 .navbar-default .navbar-nav>li>a {
 	background-color:#0000ff;
-	color: #C0C0C0;
+	color: #fff;
 }
 
 pre {
@@ -47,7 +47,7 @@ background-color:#C0C0C0;
 }
 
 .btn-default:hover{
-background-color:#fff;
+background-color:#C0C0C0;
 	color:#000;
 	border-color: #00f;
 	   border-width: 2px;
